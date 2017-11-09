@@ -1,7 +1,7 @@
 # Site settings
 title: Tianshu Hao
 SEOTitle: Tianshu Hao's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/IMG_3244.jpg
 email: haotianshu93@gmail.com
 description: "Record all of the interesting things in my life! "
 keyword: "Tianshu Hao, Computer Sciense, Computer System, Benchmark"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/snowbunnyHao/snowbunnyHao.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: Ph.D. Student at Institute of Computing technology, Chinese Academy of Sciences"
-sidebar-avatar: /img/myphoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/2017-07-31 001036.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
