@@ -11,7 +11,7 @@ github_repo: "https://github.com/snowbunnyHao/snowbunnyHao.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: I'm a Ph.D. Student at Institute of Computing technology, Chinese Academy of Sciences"
+sidebar-about-description: I'm a Ph.D. Student at the Institute of Computing technology, Chinese Academy of Sciences"
 sidebar-avatar: /img/2017-07-31 001036.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
